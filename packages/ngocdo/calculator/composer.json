@@ -1,0 +1,13 @@
+{
+    "name": "ngocdo/calculator",
+    "description": "This is sample description for Ngoc Do calculator",
+    "type": "laravel-package",
+    "authors": [
+        {
+            "name": "Ngoc Do",
+            "email": "nguyenanhngoc.do@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
